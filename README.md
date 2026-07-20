@@ -11,7 +11,7 @@ Este repositorio forma parte de mi transición profesional hacia ciberseguridad,
 - 🎓 Formación complementaria: Lógica de Programación y Ciberseguridad Web (Barcelona Activa) y Esquema Nacional de Seguridad — ENS, RD 311/2022.
 - 🧪 Este laboratorio con Wazuh, como aplicación práctica de esos conocimientos sobre un SIEM real, complementando la base teórica con hands-on en detección, análisis de logs y respuesta a incidentes.
 
-> 🔗 *Añadir aquí el enlace verificable de la credencial de Coursera (coursera.org/verify/...) cuando esté disponible.*
+> 🔗 https://coursera.org/share/dd770e1c2a2a35e468168ee3af5ed2f7
 
 📄 CV completo y contacto: [linkedin.com/in/luis-enrique-alvarez-h](https://linkedin.com/in/luis-enrique-alvarez-h/)
 

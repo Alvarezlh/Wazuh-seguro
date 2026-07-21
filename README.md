@@ -12,7 +12,7 @@ Este repositorio forma parte de mi transición profesional hacia ciberseguridad,
 - 🎓 Esquema Nacional de Seguridad (ENS, RD 311/2022) — Centro Criptológico Nacional (CCN), 20 horas, finalizado (mayo-junio 2026). Formación introductoria que incluye módulos de auditorías de seguridad y respuesta a incidentes, y categorización de sistemas y medidas de seguridad.
 - 🧪 Este laboratorio con Wazuh, como aplicación práctica de esos conocimientos sobre un SIEM real, complementando la base teórica con hands-on en detección, análisis de logs y respuesta a incidentes.
 
-> 🔗 *Añadir aquí el enlace verificable de la credencial de Coursera (coursera.org/verify/...) cuando esté disponible.*
+> 🔗 https://coursera.org/share/dd770e1c2a2a35e468168ee3af5ed2f7
 
 📄 CV completo y contacto: [linkedin.com/in/luis-enrique-alvarez](https://linkedin.com/in/luis-enrique-alvarez/)
 

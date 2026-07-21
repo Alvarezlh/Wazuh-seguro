@@ -8,12 +8,13 @@ Este repositorio forma parte de mi transición profesional hacia ciberseguridad,
 
 - 🎓 **Certificado de Profesionalidad en Seguridad de los Sistemas de Información (Nivel 3)** — Forma-t Escuela de Empleo, subvencionado por el SOC y el Fondo Social Europeo (420 horas, jul. 2025 – may. 2026, Barcelona). Incluye los módulos de Gestión de Servicios (MF0490) y Gestión de Incidentes (MF0488).
 - 🎓 **Google Cybersecurity Professional Certificate** (Google / Coursera, 2025–2026) — especialización en Linux y SQL aplicados a la recuperación, gestión y protección de datos.
-- 🎓 Formación complementaria: Lógica de Programación y Ciberseguridad Web (Barcelona Activa) y Esquema Nacional de Seguridad — ENS, RD 311/2022.
+- 🎓 Formación complementaria: Lógica de Programación y Ciberseguridad Web (Barcelona Activa).
+- 🎓 Esquema Nacional de Seguridad (ENS, RD 311/2022) — Centro Criptológico Nacional (CCN), 20 horas, finalizado (mayo-junio 2026). Formación introductoria que incluye módulos de auditorías de seguridad y respuesta a incidentes, y categorización de sistemas y medidas de seguridad.
 - 🧪 Este laboratorio con Wazuh, como aplicación práctica de esos conocimientos sobre un SIEM real, complementando la base teórica con hands-on en detección, análisis de logs y respuesta a incidentes.
 
 > 🔗 *Añadir aquí el enlace verificable de la credencial de Coursera (coursera.org/verify/...) cuando esté disponible.*
 
-📄 CV completo y contacto: [linkedin.com/in/luis-enrique-alvarez-h](https://linkedin.com/in/luis-enrique-alvarez-h/)
+📄 CV completo y contacto: [linkedin.com/in/luis-enrique-alvarez](https://linkedin.com/in/luis-enrique-alvarez/)
 
 ## 🎯 Objetivo del proyecto
 
@@ -77,6 +78,26 @@ Cada laboratorio se irá documentando en su propia carpeta o subcarpeta a medida
 - Cómo corregir datos ya indexados en OpenSearch sin reingerir todo el histórico.
 - Buenas prácticas de sintaxis DQL para evitar errores de rendimiento en búsquedas combinadas.
 - Diferencia entre analizar una muestra (`Top 5 values`) y una agregación completa (`Visualize`) sobre el total de resultados.
+
+## 🧭 Habilidades y marcos aplicados
+
+**Habilidades técnicas practicadas:**
+
+- Administración de SIEM (Wazuh: manager, indexer, dashboard).
+- Análisis de logs con OpenSearch/Discover (sintaxis DQL).
+- Linux (Kali): `systemctl`, `grep`, `tail`, permisos, `journald`.
+- Configuración de agentes (`ossec.conf`, `<localfile>`, `<syscheck>`).
+- Uso de la API REST de OpenSearch (`_update_by_query`, `curl`).
+- Redes básicas: modo puente, SSH, conectividad entre VMs.
+- Control de versiones con Git/GitHub.
+- *(En progreso, laboratorios 1-7):* escritura de reglas de detección, explotación controlada (Hydra, Nmap), threat intelligence, gestión de vulnerabilidades, FIM, respuesta automatizada y redacción de informes de incidente.
+
+**Marcos y estándares de referencia:**
+
+- **MITRE ATT&CK** — para clasificar las técnicas de ataque simuladas en los laboratorios (ej. T1110 Brute Force, T1046 Network Service Discovery).
+- **NIST SP 800-61** (Computer Security Incident Handling Guide) — estructura de referencia para el informe de incidentes del Laboratorio 6.
+- **PCI-DSS** — considerado al analizar datos con apariencia de información financiera/tarjetas en los logs de ejemplo.
+- **CIS Controls** — referencia conceptual para justificar la configuración de FIM y detección de vulnerabilidades.
 
 ## 🚀 Próximos pasos
 

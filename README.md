@@ -7,7 +7,7 @@ Laboratorio práctico de SIEM/XDR con **Wazuh** sobre un entorno virtualizado (K
 Este repositorio forma parte de mi transición profesional hacia ciberseguridad, respaldada por:
 
 - 🎓 **Certificado de Profesionalidad en Seguridad de los Sistemas de Información (Nivel 3)** — Forma-t Escuela de Empleo, subvencionado por el SOC y el Fondo Social Europeo (420 horas, jul. 2025 – may. 2026, Barcelona). Incluye los módulos de Gestión de Servicios (MF0490) y Gestión de Incidentes (MF0488).
-- 🎓 **Google Cybersecurity Professional Certificate** (Google / Coursera, 2025–2026) — especialización en Linux y SQL aplicados a la recuperación, gestión y protección de datos.
+- 🎓 **Google Cybersecurity Professional Certificate** (Google / Coursera, 2025–2026).
 - 🎓 Formación complementaria: Lógica de Programación Java (Barcelona Activa).
 - 🎓 Esquema Nacional de Seguridad (ENS, RD 311/2022) — Centro Criptológico Nacional (CCN), 20 horas, finalizado (mayo-junio 2026). Formación introductoria que incluye módulos de auditorías de seguridad y respuesta a incidentes, y categorización de sistemas y medidas de seguridad.
 - 🧪 Este laboratorio con Wazuh, como aplicación práctica de esos conocimientos sobre un SIEM real, complementando la base teórica con hands-on en detección, análisis de logs y respuesta a incidentes.

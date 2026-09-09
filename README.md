@@ -99,6 +99,5 @@ Cada laboratorio se irá documentando en su propia carpeta o subcarpeta a medida
 - **PCI-DSS** — considerado al analizar datos con apariencia de información financiera/tarjetas en los logs de ejemplo.
 - **CIS Controls** — referencia conceptual para justificar la configuración de FIM y detección de vulnerabilidades.
 
-## 🚀 Próximos pasos
 
 *Proyecto personal de aprendizaje en ciberseguridad — Blue Team / SOC.*

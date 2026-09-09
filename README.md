@@ -101,11 +101,4 @@ Cada laboratorio se irá documentando en su propia carpeta o subcarpeta a medida
 
 ## 🚀 Próximos pasos
 
-- [ ] Completar Laboratorio 1 (ataques reales + reglas propias)
-- [ ] Completar Laboratorio 6 (informe de incidente)
-- [ ] Añadir capturas de pantalla de cada laboratorio completado
-- [ ] Publicar un resumen del proyecto en LinkedIn
-
----
-
 *Proyecto personal de aprendizaje en ciberseguridad — Blue Team / SOC.*

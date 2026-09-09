@@ -90,7 +90,7 @@ Cada laboratorio se irá documentando en su propia carpeta o subcarpeta a medida
 - Uso de la API REST de OpenSearch (`_update_by_query`, `curl`).
 - Redes básicas: modo puente, SSH, conectividad entre VMs.
 - Control de versiones con Git/GitHub.
-- *(En progreso, laboratorios 1-7):* escritura de reglas de detección, explotación controlada (Hydra, Nmap), threat intelligence, gestión de vulnerabilidades, FIM, respuesta automatizada y redacción de informes de incidente.
+- Escritura de reglas de detección, explotación controlada (Hydra, Nmap), threat intelligence, gestión de vulnerabilidades, FIM, respuesta automatizada y redacción de informes de incidente.
 
 **Marcos y estándares de referencia:**
 
